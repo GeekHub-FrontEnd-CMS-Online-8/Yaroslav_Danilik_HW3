@@ -1,0 +1,18 @@
+body {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+legend {
+    font-weight: bold;  
+}
+.agesize {
+    width: 15px;
+}
+
+.pstyle {
+    font-weight: bold;
+}
+.sdecor {
+    font-style: italic;
+}

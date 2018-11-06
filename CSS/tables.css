@@ -1,0 +1,55 @@
+body {
+    width: 1000px;
+    margin: 0 auto;
+}
+.table1 {
+
+    width: 100%;
+}
+
+.table2 {
+    width: 800px;
+    margin: 0 auto;
+    table-layout: fixed;
+}
+
+.table3 {
+    text-align: left;
+    table-layout: fixed;
+    width: 800px;
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.t2 {
+    height: 20px;
+}
+
+.culture.culturetd {
+padding: 50px;
+}
+
+.spectr {
+width: 310px;
+}
+.cost {
+    width: 100px;
+    vertical-align: top;   
+}
+
+.pad {
+    padding: 5px;
+}
+
+.top {
+    vertical-align: top;
+    padding-top: 10px; 
+}
+
+table .table 1 {
+
+}
