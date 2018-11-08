@@ -2,6 +2,11 @@ body {
     width: 1000px;
     margin: 0 auto;
 }
+
+table,th,td {
+border: 1px solid #000;
+margin: 0 auto;
+}
 .table1 {
 
     width: 100%;
@@ -9,7 +14,6 @@ body {
 
 .table2 {
     width: 800px;
-    margin: 0 auto;
     table-layout: fixed;
 }
 
@@ -17,8 +21,8 @@ body {
     text-align: left;
     table-layout: fixed;
     width: 800px;
-    margin: 0 auto;
     border-collapse: collapse;
+    border-width: 2px;
 }
 
 .bold {
